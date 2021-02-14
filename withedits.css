@@ -1,0 +1,190 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	background-image:url(images/background.png);
+    background-repeat: repeat;
+    background-image: url(http://38.media.tumblr.com/26e20861b45580564b8408c65cb8f985/tumblr_nrpk86hpHl1s8mouyo1_500.gif);
+    background-size: 100%;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+#container
+{
+  display: block; 
+  height:auto;
+  position: relative; 
+  width: 750px;
+  background-image:url(background.jpg);
+  background-repeat:repeat-y;
+  padding-left:17px;
+  padding-right:17px;
+  overflow:hidden;
+
+}
+
+
+
+#links
+{
+    
+display:block;
+float: left;;	
+margin-top:25px;
+margin-left: 120px;
+
+}
+
+#links a, #links a:visited
+{
+font-size:20px;
+font-weight:bold;
+margin-left:4px;
+margin-right:4px;
+color:green;
+text-decoration:none;
+}
+
+#links a:hover
+{
+border-bottom:dotted 1px #1652B4;
+}
+
+#header
+{
+height:60px;
+border: 10px groove;
+border-color:aliceblue;
+
+}
+
+#header h1
+{
+margin-top:15px;
+margin-left:10px;
+font-size:33px;
+color:#0A2645;
+float:left;
+}
+
+span{
+color:seagreen;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin-left: 188px;
+}
+
+.picture
+{
+	background-image:url(imagebackground.jpg);
+	background-repeat:repeat-x;
+	background-position:bottom;
+	padding-bottom:8px;
+	margin-top:22px;
+}
+
+
+.contenttext h2
+{
+color:#123F83;
+font-size:24px;
+margin-bottom:10px;
+border: 3px dotted saddlebrown;
+	
+}
+
+.contenttext
+{
+	padding-left:10px;
+    padding-right:10px;
+}
+
+
+#footer
+{
+font-size:12px;
+color:#519FEE;
+margin-top:18px;
+width:750px;
+text-align:center;
+}
+#footer a, #footer a:visited
+{
+	text-align:center;
+color:black;
+    text-decoration:none;
+    border:none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html, body {
+text-align: center;
+}
+
+p {text-align: left;}
+
+h2{
+    text-align: center;
+}
+
+h2.tem2{
+    margin-left: 0px;
+    color:bisque;
+    text-shadow: 2px 2px tan;
+    border:1px solid;
+    border-left-color: green;
+    border-right-color: darkturquoise;
+    border-top-color: darkturquoise;
+    border-bottom-color: green;
+    padding:20px;
+}
+
+h2.tem3{
+    margin-left: 0px;
+    color:green;
+    text-align: center;
+    border:1px solid;
+    border-color: green;
+    padding:10px;
+    
+    
+}
+
+p.p1{
+    margin-left: 20px;
+    padding: 30px;
+   
+
+}
+
+p.p2{
+    padding:20px;
+    margin-left: 20px;
+   
+}
+
+p.p3{
+    padding:10px;
+    margin-left: 30px;
+}
+h2.tem1{
+    color:darkturquoise;
+    border: 1px solid;
+    border-color: darkturquoise;
+    padding: 30px;
+}
+
+a{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    border:1px solid darkturquoise;
+    
+  
+  
+}
+
+
